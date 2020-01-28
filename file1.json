@@ -1,0 +1,20 @@
+{
+	"dates":[
+		"2000","2001","2002"
+	], 
+	"publications":{
+		"2000":{
+			"C1_article1_1":{"titre":"titre1_1","abstract":"blabla article1_1"},
+			"C1_article1_2":{"titre":"titre1_2","abstract":"blabla article1_2"}},
+		"2001":{
+			"C1_article2_1":{"titre":"titre2_1","abstract":"blabla article2_1"},
+			"C1_article2_3":{"titre":"titre2_3","abstract":"blabla article2_3"}},
+		"2002":{
+			"C1_article3_2":{"titre":"titre3_2","abstract":"blabla article3_2"}}
+	},
+	"syntheses":{
+		"2000":{"nb_articles":2,"Nip":0.32},
+		"2001":{"nb_articles":2,"Nip":0.32},
+		"2002":{"nb_articles":1,"Nip":0.12}
+	}
+}
